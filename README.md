@@ -1,4 +1,7 @@
 # Termux-DDos attack
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)<br/><br/>
+
 ### Внимание
 Автор данной стати не несет ответственности за любие последствия! 
 
